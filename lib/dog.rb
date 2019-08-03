@@ -4,7 +4,7 @@ class Dog
     
   def breed
     @breed = breed 
-    puts "Mutt"
+  
   end 
   end 
 end
